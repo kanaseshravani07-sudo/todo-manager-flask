@@ -1,21 +1,20 @@
-```md
-# 🚀 Todo Manager Flask
+# Todo Manager Flask
 
-A responsive Todo Management Web Application built using **Flask**, **Bootstrap 5**, **SQLite**, and **SQLAlchemy** with full CRUD operations and search functionality.
+A responsive Todo Management Web Application built using Flask, Bootstrap 5, SQLite, and SQLAlchemy with full CRUD operations and search functionality.
 
 ---
 
-## ✨ Features
+## Features
 
-- Create, Update & Delete Todos
-- Search & Redirect Functionality
-- Responsive UI with Bootstrap
+- Create, Update, and Delete Todos
+- Search and Redirect Functionality
+- Responsive UI using Bootstrap
 - SQLite Database Integration
 - Dynamic Rendering using Jinja2
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - Python
 - Flask
@@ -26,18 +25,16 @@ A responsive Todo Management Web Application built using **Flask**, **Bootstrap 
 
 ---
 
-## ⚡ Highlights
+## Highlights
 
-- Implemented full-stack CRUD workflow
-- Integrated database using ORM
-- Built clean and scalable Flask project structure
-- Version controlled with Git & GitHub
+- Implemented complete CRUD workflow
+- Integrated database using SQLAlchemy ORM
+- Built clean Flask project structure
+- Version controlled using Git and GitHub
 
 ---
 
-## 👩‍💻 Developer
+## Developer
 
-**Shravani Kanase**  
+Shravani Kanase  
 B.Tech CSE Student | Aspiring Software Developer
-
-```
